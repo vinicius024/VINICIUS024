@@ -2,7 +2,7 @@
 
 
 - 🔭 Em busca do primeiro emprego!
-- 🌱 Estudando Ciência da Computação 
+- 🌱 Estudando Ciência da Computação na UnP
 - 📫 Contate - me: viniciusfreitassilva024@gmail.com
 - 😄 Pronouns: ele/dele
 
