@@ -1,4 +1,4 @@
-### Olá, Eu sou o Vinicius! 😊
+### Olá, Me chamo Vinicius! 😊
 
 
 - 🔭 Em busca do primeiro emprego!
