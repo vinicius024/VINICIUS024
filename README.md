@@ -1,8 +1,9 @@
-### Olá, Me chamo Vinicius! 😊
+<h1>Olá, Me chamo Vinicius Freitas</h1>
+  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vinicius024&color=orange" alt="profile views"/></p>
 
 
-- 🔭 Em busca do primeiro emprego!
-- 🌱 Estudante de Ciência da Computação.
+- 🔭 Desenvolvedor Front-end e UX/UI Design
 - 📫 Contate - me: viniciusfreitassilva024@gmail.com
 - 😄 Pronouns: ele/dele
 
