@@ -8,7 +8,7 @@
 - 🔰 Desenvolvedor Front-end e UX/UI Design
 - 🌑 Apaixonado por resolver Enigmas
 - 📪 Contate - me: viniciusfreitassilva024@gmail.com
-- 😄 Pronouns: ele/dele
+
 
 <br></br>
 
