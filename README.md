@@ -1,7 +1,5 @@
 <h1>Olá, Me chamo Vinicius Freitas</h1>
 
-<img align="right" height="650px" src="https://raw.githubusercontent.com/gist/vinicius024/1e734010f4930a60027f79c86c292f65/raw/d4483d1b8d77505cac2e3ca7ef8db0bb8e364955/githubcard.svg"/>
-
 <br></br>
 
 - 🔰 Desenvolvedor Front-end e UX/UI Design
