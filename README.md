@@ -6,7 +6,7 @@
 <br></br>
 
 - 🔰 Desenvolvedor Front-end e UX/UI Design
-- 🌑 Apaixonado por resolver Enigmas
+- 🌑 Apaixonado por solucionar novos enigmas e desafios
 - 📪 Contate - me: viniciusfreitassilva024@gmail.com
 
 
