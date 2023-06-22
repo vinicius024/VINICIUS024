@@ -1,4 +1,7 @@
+<img align="right" height="660px" src="https://raw.githubusercontent.com/gist/vinicius024/3ae18ec6fcb0eeebfecf15667f74593d/raw/d03f4f2569a2536de1181854a5012f81bb5e5627/githubcard.svg"/>
+
 <h1>Olá, Me chamo Vinicius Freitas</h1>
+
 
 <br></br>
 
@@ -9,7 +12,7 @@
 
 <br></br>
 
-## skills
+## Tech Stack
 <div style="display: inline_block" align="left"><br>
   <img align="center" alt="vini-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="vini-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -21,6 +24,12 @@
 
 <br></br>
 
-<img>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-</img>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius024&layout=compact" />
+</a>
+
+<br></br>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vinicius024&show_icons=true&theme=dracula" />
+</a>
+
